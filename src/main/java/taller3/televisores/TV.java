@@ -38,13 +38,13 @@ public class TV {
 	public int getVolumen() {
 		return volumen;
 	}
-	public void setVoiumen(int volumen) {
+	public void setVolumen(int volumen) {
 		this.volumen=volumen;
 	}
 	public Control getControl() {		
 		return control;
 	}
-	public void setControl() {
+	public void setControl(Control control) {
 		this.control=control;
 	}
 	public void turnOn() {
